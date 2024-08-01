@@ -1,0 +1,63 @@
+Pattern I
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -tRNA-Leu; -tRNA-Leu; -16S; -tRNA-Val; -tRNA-Gln; -12S; -; +tRNA-Ile; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -; -; -; -; -; +COI; -; -
+Geothelphusa dehaani (AB187570.1)
+
+
+
+
+Pattern II
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -16S; -tRNA-Val; -tRNA-Gln; -12S; -; +tRNA-Ile; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -; -; -; -; -; +COI; +tRNA-Leu; -
+Apotamonautes hainanensis (MN737137.1); Candidiopotamon okinawense (MN737145.1); Huananpotamon lichuanense (MN737141.1); Potamiscus montosus (MN737133.1); Potamiscus yiwuensis (MN737136.1)
+
+
+
+
+Pattern III
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -16S; -; -tRNA-Gln; -12S; -tRNA-Val; +tRNA-Ile; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -; -; -; -; -; +COI; +tRNA-Leu; -
+Lophopotamon yenyuanense (MN737139.1); Potamiscus motuoensis (MN737138.1); Tenuipotamon yuxiense (MN737140.1)
+
+
+
+
+Pattern IV
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -16S; -; +tRNA-Gln; -12S; -tRNA-Val; +tRNA-Ile; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -; -; -; -; -; +COI; +tRNA-Leu; -
+Potamiscus yongshengensis (MN737142.1)
+
+
+
+
+Pattern V
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -; -; -; -; -; -; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -16S; -tRNA-Val; -tRNA-Gln; -12S; +tRNA-Ile; +COI; +tRNA-Leu; -
+Longpotamon yangtsekiense (KY785879.1); Longpotamon xiushuiense (KU042041.1); Sinopotamon yaanense (KY785880.1)
+
+
+
+
+Pattern VI
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -; -; -; -; -; -; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -16S; -tRNA-Val; +tRNA-Gln; -12S; +tRNA-Ile; +COI; +tRNA-Leu; +tRNA-Leu
+Longpotamon parvum (MN737134.1)
+
+
+
+
+Pattern VII
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -tRNA-Leu; -; -; -; -; -; -; -; -; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -16S; -tRNA-Val; -tRNA-Gln; -12S; +tRNA-Ile; +COI; +tRNA-Leu; +tRNA-Leu
+Tenuilapotamon latilum (MN737132.1)
+
+
+
+
+Pattern VIII
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; +tRNA-Ser; -ND1; -; -; -; -; -; -; -12S; -; -; +tRNA-Met; +ND2; +tRNA-Trp; -tRNA-Leu; -tRNA-Cys; -tRNA-Tyr; -; -; -; -; -; -16S; -tRNA-Val; -tRNA-Gln; -; -tRNA-Ile; +COI; +tRNA-Leu; -
+Parapotamon spinescens (MN737144.1)
+
+
+
+
+Pattern IX
++COII; +tRNA-Lys; +tRNA-Asp; +ATP8; +ATP6; +COIII; +tRNA-Gly; +ND3; +tRNA-Ala; +tRNA-Arg; +tRNA-Asn; +tRNA-Ser; +tRNA-Glu; -tRNA-His; -tRNA-Phe; -ND5; -ND4; -ND4L; +tRNA-Thr; -tRNA-Pro; +ND6; +CYTB; -; -; -; -; -; -; -; -; -12S; -; +tRNA-Ile; +tRNA-Met; +ND2; +tRNA-Trp; -; -tRNA-Cys; -tRNA-Tyr; +COI; +tRNA-Leu; +tRNA-Ser; -ND1; -tRNA-Leu; -16S; -tRNA-Val; -tRNA-Gln; -; -; -; -; -
+Neilupotamon sinense (MN737143.1)
+
+
+
+
